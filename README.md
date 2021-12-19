@@ -8,10 +8,10 @@ AND PASTE THE LINK GIVEN BELOW :
 https://github.com/joeljorly/GRIP_Task_3/blob/main/grip3.ipynb
 
 
-THEN THE CODE WILL BE VISIBLE
+THEN THE CODE WILL BE VISIBLE :)
 
 
-THANK YOU
+THANK YOU. 
 
 
 Exploratory Data Analysis - Retail 
